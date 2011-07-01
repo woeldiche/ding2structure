@@ -1,0 +1,41 @@
+.clean {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 62.5%;
+}
+
+.container {
+  font-size: 1.3em;
+  line-height: 1.7em;
+  padding: 10px 20px;
+}
+
+.siteheader {
+  overflow: hidden;
+}
+
+.mainmenu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mainmenu li {
+  float: left;
+  padding: 5px 8px;
+  border: 1px solid #ccc;
+  margin-right: 12px;
+}
+
+.diagram {
+  float: left;
+}
+
+form ul {
+  list-style: none;
+  margin: 0;
+  padding: 8px;
+}
+
+input[type=checkbox] {
+  margin-right: 10px;
+}
